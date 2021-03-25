@@ -1,4 +1,4 @@
-# 02 app builder
+# 03 file editor
 
 vue.config.js에 설정을 넣어준다.
 
